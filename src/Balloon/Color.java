@@ -1,3 +1,5 @@
+package Balloon;
+
 public class Color {
     private int red;
     private int green;

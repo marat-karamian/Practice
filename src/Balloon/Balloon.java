@@ -1,3 +1,5 @@
+package Balloon;
+
 public class Balloon {
     public Color color;
     private double velocity;
